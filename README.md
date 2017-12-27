@@ -2,7 +2,7 @@
 This is easy-to-follow Capsule Network tutorial with clean readable code: [Capsule Network.ipynb
 ](https://github.com/higgsfield/Capsule-Network-Tutorial/blob/master/Capsule%20Network.ipynb)
 
-Hinton's paper:  [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 **Understanding Hinton’s Capsule Networks** blog posts: 
 
